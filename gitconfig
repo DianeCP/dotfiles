@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = diane@culturepay.fr
+	name = Diane Hubau
